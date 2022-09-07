@@ -1,7 +1,7 @@
 public class devop {
 public void Method1(){
-        integer a=10;
-        integer b= 6;
+        integer a= 5;
+        integer b= 8;
         integer Re= a+b;
         system.debug(' Non paramatrized constructor==> Addioon is'+re);
                     
@@ -15,8 +15,5 @@ public void Method1(){
        Integer re= a+b;
         system.debug('Non Pramatrized==> addition'+re);
     }
-    public void method4(integer a, integer b){
-       Integer re= a+b;
-        system.debug('Non Pramatrized==> addition'+re);
-    }			
+  			
 }

@@ -14,5 +14,9 @@ public void Method1(){
 	public void method3(integer a, integer b){
        Integer re= a+b;
         system.debug('Non Pramatrized==> addition'+re);
-    }		
+    }
+    public void method4(integer a, integer b){
+       Integer re= a+b;
+        system.debug('Non Pramatrized==> addition'+re);
+    }			
 }
